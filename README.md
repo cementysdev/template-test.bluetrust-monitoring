@@ -130,7 +130,7 @@ technical-test-btm/
 | ------ | --------- | ---------------------------------- |
 | GET    | `/health` | Checks the database connection     |
 
-### User Model
+### User Model (example)
 
 ```typescript
 interface User {
